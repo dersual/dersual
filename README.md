@@ -3,7 +3,7 @@
 My name is Derrick Sual and I am:
 - a CS student at Stevens Institute of Technology (Class of 2028)
 - someone who loves building software end-to-end, from full-stack web applications to applied machine learning systems
-- previously a SWE intern across financial platforms & startups, and a co-author on LLM research presented at the ICML 2026 Workshop
+- previously a SWE intern across financial platforms & startups, and a co-author on LLM research presented at the ICML 2026 Workshop. [check out the paper!](https://openreview.net/pdf?id=OaVF3mtujz)
 - actively looking for a Winter/Spring 2027 Software Engineering Co-op position
 - reachable at dersu1317@gmail.com, or connect with me through [here](https://linktr.ee/Derrick.Sual)
 
